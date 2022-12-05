@@ -1,5 +1,5 @@
-function cheer() {
-  console.log("JANA_TEAM")
+function cheer(param) {
+  console.log(param)
 };
 
-cheer()
+cheer("cheer")
