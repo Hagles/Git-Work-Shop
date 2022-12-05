@@ -1,5 +1,5 @@
-function future (horoscopeSign) {
-  console.log(horoscopeSign)
+function future(horoscopeSign) {
+  console.log(horoscopeSign);
 }
 
-future ("Zodiac")
+future("Zodiac");
