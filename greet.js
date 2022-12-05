@@ -1,5 +1,5 @@
 function getName(name){
-    console.log(name)
+    console.log(`Greetings for ${name}`)
 };
 
 getName('Tomi');
