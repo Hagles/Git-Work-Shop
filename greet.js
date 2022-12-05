@@ -3,3 +3,4 @@ function getName(name){
 };
 
 getName('Tomi');
+getName("Greetings!")
