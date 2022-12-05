@@ -1,5 +1,7 @@
-function future (horoscopeSign) {
-  console.log("Your future looks like parameter" + horoscopeSign)
+
+function future(horoscopeSign1, horoscopeSign2) {
+  console.log(horoscopeSign1, ", ", horoscopeSign2);
+
 }
 
-future ("Zodiac")
+future("Zodiac","Leo");

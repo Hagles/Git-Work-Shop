@@ -1,5 +1,8 @@
-function getName(firstName,secondName){
-    console.log(firstName,secondName)
+
+function getName(name){
+    console.log(`Greetings for ${name}`)
+
 };
 
-getName(Tamas, Balazs);
+getName('Tomi');
+

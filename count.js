@@ -1,5 +1,6 @@
 function count(birthYear) {
-  console.log(2022 - birthYear);
+  console.log("Counting the countless" - birthYear);
 }
 
 count(196);
+count(1966);
