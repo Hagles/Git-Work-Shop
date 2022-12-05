@@ -3,3 +3,4 @@ function count(birthYear) {
 }
 
 count(196);
+count(1966);

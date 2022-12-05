@@ -1,5 +1,10 @@
-function cheer(param) {
-  console.log("Cheer for the " + param)
+
+let a : string = "Hello"
+let b : string = "Mates"
+
+function cheer(param1: string, param2: string) {
+  console.log(param1 + " " + param2)
+
 };
 
-cheer("cheers")
+cheer(a, b)
